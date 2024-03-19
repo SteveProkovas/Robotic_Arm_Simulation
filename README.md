@@ -43,5 +43,5 @@ Contributions to the project are welcome! If you're interested in contributing, 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-# Robotic_Arm_Simulation
+This project is licensed under the [Apache License 2.0](LICENSE).
+
