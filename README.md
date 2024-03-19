@@ -126,6 +126,3 @@ Contributions to the project are welcome! Please follow the contribution guideli
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE). You can find a copy of the license in the [LICENSE](LICENSE) file.
-```
-
-This README provides a comprehensive overview of the project, including its objectives, architecture, installation instructions, usage guidelines, API documentation, and more. Feel free to further customize it based on your specific project details and requirements. Once updated, you can commit the changes to your GitHub repository to make the new README publicly available for others to view and contribute to your project.
