@@ -33,21 +33,10 @@ The Robotic Arm Simulation project focuses on developing a next-generation robot
 - **User Interface:** Intuitive interfaces for interacting with the simulation environment, controlling the robotic arm, and monitoring its performance.
 - **Communication Framework:** Efficient communication protocols for seamless integration with external systems, devices, and sensors.
 
-## Installation
-
-To install the Robotic Arm Simulation project, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies using the provided installation script.
-3. Configure the simulation environment and dependencies according to the documentation.
-4. Start the simulation environment and explore the capabilities of the robotic arm.
-
 ## Usage
 
 The simulation environment provides a user-friendly interface for interacting with the robotic arm and testing various scenarios. Refer to the documentation for detailed usage instructions and examples.
 
-## Documentation
-
-Comprehensive documentation includes detailed instructions on installation, usage, customization, and integration with external systems. Additionally, API documentation provides information about available functions, parameters, and usage examples for developers.
 
 ## Contributing
 
