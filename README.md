@@ -14,7 +14,7 @@ This project encompasses a Python-based framework designed to simulate the dynam
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/robotic-simulation.git
+    git clone https://github.com/SteveProkovas/Robotic_Arm_Simulation.git
     cd robotic-simulation
     ```
 
