@@ -1,6 +1,3 @@
-Here's how you can integrate the Physics Engine into the README:
-
-```markdown
 # Robotic Simulation
 
 This project encompasses a Python-based framework designed to simulate the dynamics and kinematics of robotic arms. With this framework, you can explore the behavior of robotic arms in various scenarios, aiding in analysis and development. Dive in and simulate your robotic systems! 🤖
