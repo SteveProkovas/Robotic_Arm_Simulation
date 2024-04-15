@@ -87,10 +87,3 @@ Debugging can be achieved using print statements or debuggers like pdb. Addition
 ## Documentation
 
 Explore documentation in the `docs/` directory. It provides insights into classes, methods, parameters, and usage examples.
-
-## Example
-
-For a quick start, check out the [example.py](example.py) file for a demonstration of the framework's usage.
-```
-
-This README now includes the integration of the Physics Engine alongside the existing components.
