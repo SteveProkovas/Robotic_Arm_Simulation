@@ -48,18 +48,6 @@ solver = KinematicsSolver(arm_geometry)
 solution = solver.inverse_kinematics_solver(desired_position)
 ```
 
-### Physics Engine
-
-```python
-from physics import PhysicsEngine, Sphere, Box
-
-# Example usage
-engine = PhysicsEngine(gravity=[0, -9.81, 0], grid_size=10)
-dt = 0.01  # Time step (seconds)
-for _ in range(num_steps):
-    engine.simulate_step([sphere, box], dt)
-```
-
 ## Contributing
 
 Contributions are welcomed! Whether it's fixing bugs, adding features, or enhancing documentation, your contributions make this project better for everyone. Feel free to open issues or pull requests.
