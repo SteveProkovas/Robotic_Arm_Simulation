@@ -56,10 +56,6 @@ Contributions are welcomed! Whether it's fixing bugs, adding features, or enhanc
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-## Version Control
-
-Git is used for version control. Remember to follow Git best practices and commit your changes frequently.
-
 ## Testing
 
 Unit tests are included in the `tests/` directory. Run the tests using:
